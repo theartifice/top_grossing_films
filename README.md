@@ -1,6 +1,6 @@
 # Investigation of Top Grossing Film Characteristics
 
-The goal of this workbook is to analyze top grossing film data, using Jupyter Notebook and datasets from Kaggle. The production method, runtime and genre is inspected for potential predictioon moddels.
+The goal of this workbook is to analyze top grossing film data, using Jupyter Notebook and datasets from Kaggle. The production method, runtime and genre is inspected for potential predictioon models.
 
 ## Required Installation
 
