@@ -1,6 +1,6 @@
 # Investigation of Top Grossing Film Characteristics
 
-The goal of this workbook is to analyze top grossing film data, using Jupyter Notebook and datasets from Kaggle. The production method, runtime and genre is inspected for potential predictioon models. The companion article can be found on [Medium](https://medium.com/@christiaanveeden/which-characteristics-affect-movie-gross-f0acfc4fefe0https://medium.com/@christiaanveeden/which-characteristics-affect-movie-gross-f0acfc4fefe0)
+The goal of this workbook is to analyze top grossing film data, using Jupyter Notebook and datasets from Kaggle. The production method, runtime and genre is inspected for potential predictioon models. The companion article can be found on [Medium](https://medium.com/@christiaanveeden/which-characteristics-affect-movie-gross-f0acfc4fefe0https://medium.com/@christiaanveeden/which-characteristics-affect-movie-gross-f0acfc4fefe0).
 
 ## Required Installation
 
